@@ -29,6 +29,6 @@ This project aims to close the dermatology access gap, support community-driven 
 To run this project locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/getskinwise-platform.git
+git clone https://github.com/FoiScience-Hub/getskinwise-platform.git
 cd getskinwise-platform
 # Open index.html or set up using WordPress install instructions
